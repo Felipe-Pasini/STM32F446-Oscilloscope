@@ -1,8 +1,0 @@
-../Core/Src/main.c:174:5:GetSamplesAuto	16	static
-../Core/Src/main.c:219:5:Transmit	16	static
-../Core/Src/main.c:269:5:WaveAnalysis	120	dynamic
-../Core/Src/main.c:372:5:main	8	static
-../Core/Src/main.c:428:6:SystemClock_Config	88	static
-../Core/Src/main.c:475:6:HAL_ADC_ConvCpltCallback	16	static
-../Core/Src/main.c:494:6:HAL_UART_RxCpltCallback	16	static
-../Core/Src/main.c:551:6:Error_Handler	4	static,ignoring_inline_asm
